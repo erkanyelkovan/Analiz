@@ -1,4 +1,4 @@
- ## Yazılım geliştirme ekibine iletilecek olan modül gereksinimlerini liste halinde çıkartınız.  
+ ## Yazılım geliştirme ekibine iletilecek olan modüller ve gereksinimler listesi  
  
  Kullanıcı ve rol tanım modülü    
  Personel tanım modulü            
