@@ -1,4 +1,4 @@
-## Gereksinimleri toplayacağı kaynaklar  
+## Gereksinimlerin toplayacağı kaynaklar  
 
 Tesis Yöneticisi   
 Grup Amiri   
