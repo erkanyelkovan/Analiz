@@ -1,0 +1,34 @@
+Id,Name,Shape Library,Page ID,Contained By,Group,Line Source,Line Destination,Source Arrow,Destination Arrow,Status,Text Area 1,Text Area 2,Text Area 3
+1,Document,,,,,,,,,DRAFT,analiz-sinif-uml-diyagram,,
+2,Page,,,,,,,,,,Page 1,,
+3,Class,UML,2,,,,,,,,Personel,"​+ kimlikno:numerik
++ adi:dizi
++ soyadi:dizi
++ dogumtarihi: tarih
++ dogumyeri: dizi
++ grupkodu",
+4,Class,UML,2,,,,,,,,Bina,"​+ binanumarasi: numerik
++ adi:dizi
++ adresi:dizi
++ mahalkodu: dizi",
+5,Class,UML,2,,,,,,,,Mahal,"​+ kodu:dizi
++ adi:dizi
++ bolge:dizi",
+6,Class,UML,2,,,,,,,,Grup,"​+ kodu:dizi
++ adi:dizi
+",
+7,Class,UML,2,,,,,,,,İş,"​+ kod:dizi
++ adı:dizi
++ kategori:dizi
++ sure: numerik
++ sureturu: dizi",
+8,Class,UML,2,,,,,,,,Malzeme,"​+ kodu:dizi
++ adi:dizi
++ turu:dizi",
+9,Class,UML,2,,,,,,,,İş Emri,"​+ kodu:dizi
++ iskodu:dizi
++ personel:dizi",
+10,Line,,2,,,3,6,None,None,,,,
+11,Line,,2,,,4,5,None,None,,,,
+12,Line,,2,,,9,7,None,None,,,,
+13,Line,,2,,,9,3,None,None,,,,
