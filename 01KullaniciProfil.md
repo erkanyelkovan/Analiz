@@ -2,6 +2,8 @@
 
 Tesis Yöneticisi profili  
 
+Grup Amiri profili  
+
 Ekip üyesi profili  
 
 
