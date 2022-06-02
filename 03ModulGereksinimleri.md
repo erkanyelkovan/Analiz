@@ -24,3 +24,15 @@
  Çalışan malzemelerim kaç kez arıza verdiğini görmek  
  Kategori bazında arıza raporu  
  Uygulamaya uzaktan bağlanma imkanı  
+ Malzeme tamir analizi  
+ Teknisyenlere uzmanlıklarına göre iş atayabilmek  
+ Periyodik işlere otomatik iş emri üretimi  
+ Planlı bakım, anlık arıza ve iş emri görevlendirme raporu  
+ İş emirlerinin kategorize edilmesi   
+ İş emri durum raporları  
+ İş emri & görevlerin anlık olarak statülerini takip edebilmek  
+ 
+ 
+ 
+ 
+ 
