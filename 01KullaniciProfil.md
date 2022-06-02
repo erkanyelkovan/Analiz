@@ -1,7 +1,7 @@
 ## Kullanıcı profillleri  
 
-Profil Adı
----------
+Profil Adı |
+---------|
 Tesis Yöneticisi profili  
 
 Grup Amiri profili  
