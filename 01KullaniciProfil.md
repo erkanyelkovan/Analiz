@@ -1,6 +1,6 @@
 1. Kullanıcı profilllerini tanımlayınız  
 
-Profi Adı
+Profil Adı
 ---------
 Tesis Yöneticisi profili  
 
