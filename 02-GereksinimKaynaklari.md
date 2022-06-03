@@ -4,7 +4,7 @@ Kaynak Adı |
 ----- | 
 Tesis Yöneticisi   
 Grup Amiri   
-Sahada çalşan ekip     
+Sahada çalışan ekip     
 Bina   
 İşler  
 Mahaller  
