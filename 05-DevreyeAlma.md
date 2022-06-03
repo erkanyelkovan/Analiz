@@ -1,6 +1,6 @@
  
 Kullanılacak uygulamanın web tabanlımı yoksa masa üstü uygulama mı olacağı belirlenir,
-Öncelikle tanımlamalar yapılamalı    
+Öncelikle tanımlamalar yapılmalı    
 Mahal, bina, malzeme ve iş bilgileri ve süreleri  kaynaklardan toplanarak uygulamada tanımlanır     
 Kullanıcı ve rol bilgileri kaynaklardan toplanır   
 Hangi rollerin hangi işlemlere yetkisi bulunacağı belirlenir    
