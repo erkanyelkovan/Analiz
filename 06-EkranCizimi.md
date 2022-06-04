@@ -7,5 +7,5 @@ Kapatılan İş Ekranı Onay |https://share.balsamiq.com/c/64LaKUbgJk2huYPEj6HNK
 Mavi Yaka İş Emri Aktivite Ekran |https://share.balsamiq.com/c/oDikbeTt4d2CVguiA32w8x.png
 Tesis Yöneticisine Ait Deshboard |https://balsamiq.cloud/snhbv5m/p7f79t2
 İş Grup Yönetisine Ait Deshboard |https://share.balsamiq.com/c/q25NqhggGDyP2PHbKWYE4L.png
-Mavi Yakaya Ait Rapor Ekranı |https://balsamiq.cloud/snhbv5m/p7f79t2
+Mavi Yakaya Ait Rapor Ekranı |https://share.balsamiq.com/c/rD29ax8dnj9sMz1hLvfuWm.png
 İş Emri AçmaEkranı |https://balsamiq.cloud/snhbv5m/p7f79t2
