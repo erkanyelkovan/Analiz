@@ -11,15 +11,19 @@ Malzeme - Ekipman
 
 
 İş Emri Süreç Diyagramı  
-https://balsamiq.cloud/snhbv5m/phhwjg8
-
-
-use case diagram  
-https://balsamiq.cloud/snhbv5m/p7f79t2
-
-
-
-
+https://balsamiq.cloud/snhbv5m/phhwjg8  
 
 
 ![İş Emri Görevlendirme](https://user-images.githubusercontent.com/106742454/171643662-6bd3cb08-d4fd-4bc3-8511-5f73d68a137c.png)
+
+
+
+Kullanım senaryosu diyagramı    
+https://balsamiq.cloud/snhbv5m/p7f79t2  
+
+
+
+
+
+
+
