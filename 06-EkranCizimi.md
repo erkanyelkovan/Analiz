@@ -2,8 +2,8 @@
 
 Ekran Adı | Düşük Doğruluklu Ekran Çizimi
 --------|------
-Planlı İş Emri Tanımlama | https://balsamiq.cloud/snhbv5m/p7f79t2  
-Kapatılan İş Ekranı Onay |https://balsamiq.cloud/snhbv5m/p7f79t2
+Planlı İş Emri Tanımlama | https://share.balsamiq.com/c/ogqnUkfMuGMFCZvB2Q4io9.png 
+Kapatılan İş Ekranı Onay |https://share.balsamiq.com/c/64LaKUbgJk2huYPEj6HNKk.png
 Mavi Yaka İş Emri Aktivite Ekran |https://balsamiq.cloud/snhbv5m/p7f79t2
 Tesis Yöneticisine Ait Deshboard |https://balsamiq.cloud/snhbv5m/p7f79t2
 İş Grup Yönetisine Ait Deshboard |https://balsamiq.cloud/snhbv5m/p7f79t2
