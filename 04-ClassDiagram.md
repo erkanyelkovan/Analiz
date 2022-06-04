@@ -19,7 +19,7 @@ https://balsamiq.cloud/snhbv5m/phhwjg8
 
 
 Kullanım senaryosu diyagramı    
-https://balsamiq.cloud/snhbv5m/p7f79t2  
+https://share.balsamiq.com/c/pWfG1QNAjZ7TyDVKNhBZbT.png 
 
 
 
