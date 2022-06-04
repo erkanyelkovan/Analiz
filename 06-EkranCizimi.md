@@ -8,4 +8,4 @@ Mavi Yaka İş Emri Aktivite Ekran |https://share.balsamiq.com/c/oDikbeTt4d2CVgu
 Tesis Yöneticisine Ait Deshboard |https://balsamiq.cloud/snhbv5m/p7f79t2
 İş Grup Yönetisine Ait Deshboard |https://share.balsamiq.com/c/q25NqhggGDyP2PHbKWYE4L.png
 Mavi Yakaya Ait Rapor Ekranı |https://share.balsamiq.com/c/rD29ax8dnj9sMz1hLvfuWm.png
-İş Emri AçmaEkranı |https://balsamiq.cloud/snhbv5m/p7f79t2
+İş Emri AçmaEkranı |https://share.balsamiq.com/c/mpX1exa7MQ9Wu7TTVetJ4q.png
